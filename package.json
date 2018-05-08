@@ -1,0 +1,24 @@
+{
+  "name": "alexa-verifier-webtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfjedimaster/alexa-verifier-webtask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfjedimaster/alexa-verifier-webtask/issues"
+  },
+  "homepage": "https://github.com/cfjedimaster/alexa-verifier-webtask#readme",
+  "dependencies": {
+    "alexa-verifier": "2.0.1",
+    "raw-body":"2.3.3"
+  }
+}
